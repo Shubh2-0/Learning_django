@@ -46,15 +46,13 @@ Welcome to the Learning Django project with "myapp"! This repository is my journ
 
 To get started with this project, follow these steps:
 
-1. Clone this repository to your local machine:
-   ```
-   git clone https://github.com/Shubh2-0/Learning_django.git
-   ```
-2. Navigate to the project directory:  ``cd myapp``
+1. Clone this repository to your local machine:    ``git clone https://github.com/Shubh2-0/Learning_django.git``
 
-3. Install the project's dependencies: ``pip install -r requirements.txt``
+2. Navigate to the project directory:    ``cd myapp``
 
-4. Run the Django development server: ``python manage.py runserver``
+3. Install the project's dependencies:    ``pip install -r requirements.txt``
+
+4. Run the Django development server:    ``python manage.py runserver``
 
 🌐 Access the project in your web browser at http://localhost:8000. 🌐
 
